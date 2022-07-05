@@ -84,9 +84,15 @@ section p{
     border-radius: 10px;
     background-color:white;
 }
-div{
-    width:100%
-  
-    border:
+.last-section {
+    
+    width:80%;
+    margin-left:5%
+    padding: 20px;
+    border-radius:10px solid white;
+    text-align: center;
+    background-color:white;
+    
+    
 }
 
